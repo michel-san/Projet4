@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Ma Reu</string>
+    <string name="date">Date</string>
+    <string name="email_participant">Participant s email</string>
+    <string name="avatar">avatar</string>
+    <string name="meeting_A_14h00_peach">Meeting A - 14h00 - Peach</string>
+    <string name="maxime_lamzone_com_alex_lamzone">maxime@lamzone.com, alex@lamzo…</string>
+    <string name="delete">delete</string>
+    <string name="mail">mail</string>
+    <string name="subject">Subject</string>
+    <string name="room">Room</string>
+    <string name="save">Save</string>
+    <string name="time">Time</string>
+    <string name="add">Add</string>
+    <string name="participant">Participant</string>
+    <string name="New_meeting">New meeting</string>
+    <string name="filter">Filter</string>
+    <string name="noFilter">NoFilter</string>
+    <string name="FilterByDate">FilterByDate</string>
+    <string name="FilterRoom">FilterRoom</string>
+    <string name="image_button_delete">Image_button_delete</string>
+</resources>

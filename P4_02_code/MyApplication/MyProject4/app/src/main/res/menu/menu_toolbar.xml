@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context = "p4.UI.ListMeetingActivity"
+    >
+    <item
+        android:id="@+id/filter"
+        android:icon="@drawable/ic_filter_list_white_24dp"
+        android:title="@string/filter"
+        app:showAsAction="ifRoom">
+
+        <menu>
+            <item
+                android:id="@+id/no_filter"
+                android:orderInCategory="100"
+                android:title="@string/noFilter"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/filter_date"
+                android:orderInCategory="100"
+                android:title="@string/FilterByDate"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/filter_room"
+                android:orderInCategory="100"
+                android:title="@string/FilterRoom"
+                app:showAsAction="never" />
+
+        </menu>
+    </item>
+</menu>
