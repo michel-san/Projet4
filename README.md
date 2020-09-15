@@ -1,5 +1,5 @@
 
-                                                          Ma réu
+                                                      Ma réu
                                                                   
                                                                   
                                                                   
@@ -9,7 +9,7 @@ Cette application permet aux collaborateurs de Lamzone de réserver des salles d
 
 
 
-                                                        FONCTIONS PRINCIPALES
+                                                    FONCTIONS PRINCIPALES
                                                         
                                 
 Afficher les différentes réunions
@@ -22,7 +22,7 @@ Supprimer une réunion
 
 
                                                 
-                                                         INSTALLATION
+                                                     INSTALLATION
                                                          
                                                          
 Récupérer le programme via le bouton Download ou en utilisant git clone via ce lien https://github.com/michel-san/Projet4
@@ -31,7 +31,7 @@ Lancer Android Studio, Open/File et choisir le fichier téléchargé
 
 
 
-                                                         LANCEMENT
+                                                     LANCEMENT
                                                          
                                                          
 Dans Android Studio :
